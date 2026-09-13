@@ -2,9 +2,9 @@
 
 Desenvolvedor Web e Bacharel em Ciência da Computação.
 
-Desenvolvo aplicações web, sistemas de gestão e experiências digitais responsivas. Tenho experiência prática conduzindo projetos desde a definição do problema e da interface até regras de negócio, banco de dados, integrações, SEO e publicação.
+Desenvolvo aplicações web, sistemas de gestão e experiências digitais responsivas. Tenho experiência prática conduzindo projetos próprios e comerciais desde a definição do problema e da interface até regras de negócio, banco de dados, integrações, SEO e publicação.
 
-Busco minha primeira oportunidade formal como Desenvolvedor Web Júnior, levando para o time a experiência adquirida em produtos próprios e projetos comerciais reais.
+Busco minha primeira oportunidade formal como Desenvolvedor Web Júnior, levando para o time a experiência adquirida em produtos reais, projetos para clientes e estudos de portfólio.
 
 ## Tecnologias
 
@@ -14,41 +14,47 @@ Busco minha primeira oportunidade formal como Desenvolvedor Web Júnior, levando
 
 ## Projetos em destaque
 
-### Original Indic — SaaS de agendamentos
+### 1. Original Indic — SaaS
 
-Meu principal projeto técnico: uma plataforma para centralizar clientes, profissionais, serviços, disponibilidade, agendamentos e rotinas administrativas. O sistema também trabalha com recorrência, permissões, notificações, assinaturas e integrações de pagamento.
+Meu principal projeto técnico: uma plataforma de gestão e agendamentos com clientes, profissionais, serviços, disponibilidade, regras contra conflitos, painel administrativo, autenticação, recorrência, notificações, assinaturas e integrações de pagamento.
 
-O código permanece privado por conter regras de negócio e integrações de produção.
+O repositório permanece privado por conter regras de negócio e integrações de produção.
 
 [Conhecer o case técnico](./cases/original-indic.md)
 
-### São Gabriel Planejados — projeto comercial
+### 2. JMR Soluções em Limpeza — projeto para cliente
 
-Site institucional e portfólio desenvolvido para uma empresa de móveis planejados. Possui páginas dinâmicas de projetos, galerias responsivas, animações, sitemap automático e trabalho de SEO técnico.
+Site comercial desenvolvido para apresentar serviços de limpeza técnica, trabalhos realizados e facilitar pedidos de orçamento. Inclui galeria de imagens e vídeos, comparação de antes e depois, animações, SEO técnico e dados estruturados.
+
+O repositório e os ativos do cliente permanecem privados.
+
+[Ver site](https://jmrlimpezadevidros.vercel.app) · [Conhecer o case](./cases/jmr-solucoes-em-limpeza.md)
+
+### 3. São Gabriel Planejados — projeto para cliente
+
+Site institucional e portfólio para uma empresa de móveis planejados, com páginas dinâmicas de projetos, galerias responsivas, animações, sitemap automático e SEO técnico.
+
+O repositório e os ativos do cliente permanecem privados.
 
 [Ver site](https://saogabrielplanejados.vercel.app) · [Conhecer o case](./cases/sao-gabriel-planejados.md)
 
-### D&S Construção — projeto comercial
+### 4. D&S Construção — projeto para cliente
 
-Presença digital criada para uma empresa de construção civil, com identidade visual, responsividade, animações, dados estruturados, recursos de indexação e deploy contínuo.
+Presença digital para uma empresa de construção civil, desenvolvida no repositório privado `engenharia`. O projeto reúne identidade visual, responsividade, animações, dados estruturados, indexação e deploy contínuo.
 
 [Ver site](https://dsconstrucao.vercel.app) · [Conhecer o case](./cases/ds-construcao.md)
 
-### PetOS — gestão de serviços para pets
+### 5. BLACKLINE — projeto de portfólio
 
-Aplicação em desenvolvimento com autenticação, separação de dados por empresa, dashboards, agenda, cadastro de pets, profissionais, serviços e gestão de rotas.
+Experiência visual para o segmento automotivo, criada para demonstrar desenvolvimento com React, TypeScript, responsividade, navegação fluida e comparação interativa de resultados.
 
-[Ver demonstração](https://pet-os-five.vercel.app) · [Conhecer o case](./cases/petos.md)
+[Ver código](https://github.com/mateusdomingues/automotivo) · [Ver site](https://automotivo-alpha.vercel.app)
 
-## Projetos públicos
+### 6. Lumus Studio — projeto de portfólio
 
-| Projeto | O que demonstra | Código | Produção |
-|---|---|---|---|
-| Lumus Studio | Next.js, páginas dinâmicas, direção visual e animações com GSAP | [Repositório](https://github.com/mateusdomingues/lumus-studio) | [Acessar](https://lumus-studio.vercel.app) |
-| Maison Veyra | React, TypeScript e transições de produto orientadas por dados | [Repositório](https://github.com/mateusdomingues/perfume) | [Acessar](https://maisonveyra-neon.vercel.app) |
-| Winner Store | Next.js, catálogo interativo e narrativa de scroll com GSAP | [Repositório](https://github.com/mateusdomingues/winner) | [Acessar](https://winner-dun.vercel.app) |
-| BLACKLINE | React, experiência responsiva, scroll suave e comparação visual | [Repositório](https://github.com/mateusdomingues/automotivo) | [Acessar](https://automotivo-alpha.vercel.app) |
-| Usinox | Next.js, arquitetura de conteúdo, SEO e navegação multipágina | [Repositório](https://github.com/mateusdomingues/usinox) | [Acessar](https://usinox.vercel.app) |
+Site conceitual de um estúdio visual premium, desenvolvido com Next.js, TypeScript, páginas dinâmicas, componentização e animações com GSAP.
+
+[Ver código](https://github.com/mateusdomingues/lumus-studio) · [Ver site](https://lumus-studio.vercel.app)
 
 ## Como trabalho
 
